@@ -1,0 +1,10 @@
+﻿  plane2.cpp
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1390,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1391,25): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1397,25): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1398,26): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1405,25): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1412,25): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1419,24): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\玛希隆课程\ITGT521\Assignment3\plane2.cpp(1426,26): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  Project3.vcxproj -> E:\玛希隆课程\ITGT521\Assignment3\Project3\Debug\Project3.exe
