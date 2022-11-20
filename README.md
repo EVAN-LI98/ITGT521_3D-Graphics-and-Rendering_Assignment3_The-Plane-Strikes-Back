@@ -5,7 +5,7 @@ Student ID: 6537394
 
 For this assignment：
 
-------------------------------------------------------------------------------> OpenGL Utility Toolkit OpenGL的应用工具包
+-------------------------------------------------------> OpenGL Utility Toolkit OpenGL的应用工具包
 
     Running this code requires GLUT and GMTL
     运行需要GLUT和GMTL
