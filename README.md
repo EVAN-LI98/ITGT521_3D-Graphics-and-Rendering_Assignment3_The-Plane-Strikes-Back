@@ -6,6 +6,14 @@
  For this assignment：
 
  Keyboard inputs for plane and propeller (subpart):
+ 
+ -------------------------------------------------------> Plane 1 飞机1
+
+  I   = moves the plane forward    I 移动飞机向前
+  K   = moves the plane backward    K 移动飞机向后
+  Q,E = rolls the plane     Q,E 旋转飞机
+  A,D = yaws the plane     A,D 飞机偏航
+  X,S = pitches the plane     X,S 飞机俯角
 
  -------------------------------------------------------> Plane 2 飞机2
 
@@ -18,14 +26,6 @@
   y   = Rotates left propeller    y 旋转左边螺旋桨
   t    = Rotates Front propeller    t 旋转前边螺旋桨
   g   = Rotates Subsubpropeller    g 旋转螺旋桨配件
-
- -------------------------------------------------------> Plane 1 飞机1
-
-  I   = moves the plane forward    I 移动飞机向前
-  K   = moves the plane backward    K 移动飞机向后
-  Q,E = rolls the plane     Q,E 旋转飞机
-  A,D = yaws the plane     A,D 飞机偏航
-  X,S = pitches the plane     X,S 飞机俯角
 
  -------------------------------------------------------> Select Camera 选择相机
 
