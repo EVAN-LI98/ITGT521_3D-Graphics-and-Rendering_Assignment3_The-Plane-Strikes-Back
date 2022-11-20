@@ -5,6 +5,14 @@ Student ID: 6537394
 
 For this assignment：
 
+------------------------------------------------------------------------------> OpenGL Utility Toolkit OpenGL的应用工具包
+
+    Running this code requires GLUT and GMTL
+    运行需要GLUT和GMTL
+    GLUT download link: https://www.opengl.org/resources/libraries/glut/glut_downloads.php
+    GMTL download link: https://sourceforge.net/projects/ggt/files/GMTL%20Documentation/0.6.1/
+    
+
 Keyboard inputs for plane and propeller (subpart):
 
  ------------------------------------------------------> Plane 1 飞机1
