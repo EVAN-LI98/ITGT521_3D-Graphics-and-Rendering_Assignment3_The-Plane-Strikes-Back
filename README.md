@@ -54,3 +54,8 @@ Keyboard inputs for plane and propeller (subpart):
 
     Hold right button and drag = controls distance   
     按住鼠标右键控制相机的缩放距离
+    
+    
+     ===========================================  Preview  ===========================================
+     
+ ![Image text](https://raw.githubusercontent.com/EVAN-LI98/ITGT521_3D-Graphics-and-Rendering_Assignment3_The-Plane-Strikes-Back/main/Screenshot/Assignment3_5_ScreenShot.png)
